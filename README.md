@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @khushi_1k4
-- 👀 I’m interested in Coding,designing & learning new things to enhance my skills
-- 🌱 I’m currently learning DSA
+- 👋 Hi, I’m @khushi_1k4 || An UG student of Computer Science from India.
+- 👀 I’m interested in Coding, designing & learning new things to enhance my skills
+- 🌱 I’m currently learning DSA & Web Devlopment
 - 💞️ I’m looking to collaborate on different unique projects
 - 📫 Connect me on Linkdlin
 - 😄 Pronouns: She/her 
