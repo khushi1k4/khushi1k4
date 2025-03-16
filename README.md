@@ -1,10 +1,14 @@
 <h1 align="center">&#128075; Hello! I'm Khushi Goyal</h1>
-<h3 align="center">A passionate learner and UG student of CS from India, Tech Enthusiast & creative person.</h3>
+<h3 align="center">Tech Enthusiast & Creative Person | A passionate learner | Crafting Seamless Web Experiences</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=22&center=true&vCenter=true&width=500&lines=Building+and+Realiable+Scalable+Solutions!;Passionate+Frontend+Developer!+🚀"Love+Solving+DSA+Problems!;>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=22&center=true&vCenter=true&width=500&lines=Building+Realiable+and+Scalable+Solutions!;Passionate+Frontend+Developer!">
 </p>
 
-- 🔭 I’m currently Learning on **Frontend Development, Data Structures & Algorithm**
+---
+## **ABOUT ME**
+- &#127891; An UG student of CS from India. 
+
+- 🔭 I’m currently Learning on **Web Development, Data Structures & Algorithm**
 
 - 📫 How to reach me **khushigoyal2525@gmail.com**
 
@@ -16,6 +20,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/khushigoyal09142005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushigoyal09142005/" height="30" width="40" /></a>
 </p>
+
+---
 
 ![](https://github-profile-trophy.vercel.app/?username=khushi1k4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
