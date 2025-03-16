@@ -6,8 +6,6 @@
 
 ---
 ## **ABOUT ME**
-- &#127891; An UG student of CS from India. 
-
 - 🔭 I’m currently Learning on **Web Development, Data Structures & Algorithm**
 
 - 📫 How to reach me **khushigoyal2525@gmail.com**
