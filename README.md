@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khushigoyal2525@gmail.com**
 
-- ⚡ I’m looking to collaborate on different unique project
+- ⚡ I’m looking to collaborate on different unique projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
