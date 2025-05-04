@@ -28,10 +28,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1k4&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=khushi1k4&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi1k4&show_icons=true&locale=en" alt="khushi1k4" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khushi1k4&theme=highcontrast&hide_border=false)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi1k4&" alt="khushi1k4" /></p>
 
 <!---
 khushi1k4/khushi1k4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
