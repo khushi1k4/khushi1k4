@@ -8,7 +8,7 @@
 ## **ABOUT ME**
 - 🔭 I’m currently grinding me on **Web Development and Data Structures & Algorithm** to crystal up.
 
-- ⚡ I’m looking to collaborate on different unique projects.
+- ⚡ I’m happy to collaborate on different unique projects.
 
 - 📫 How to reach me **khushigoyal2525@gmail.com**
 
