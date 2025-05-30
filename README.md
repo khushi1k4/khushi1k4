@@ -6,7 +6,7 @@
 
 ---
 ## **ABOUT ME**
-- 🔭 I’m currently Learning on **Web Development, Data Structures & Algorithm**
+- 🔭 I’m currently hustling on **Web Development, Data Structures & Algorithm**
 
 - 📫 How to reach me **khushigoyal2525@gmail.com**
 
