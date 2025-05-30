@@ -6,11 +6,11 @@
 
 ---
 ## **ABOUT ME**
-- 🔭 I’m currently hustling on **Web Development, Data Structures & Algorithm**
-
-- 📫 How to reach me **khushigoyal2525@gmail.com**
+- 🔭 I’m currently grinding me on **Web Development and Data Structures & Algorithm** to crystal up.
 
 - ⚡ I’m looking to collaborate on different unique projects.
+
+- 📫 How to reach me **khushigoyal2525@gmail.com**
 
 - &#10024; Fun Fact: My eyes are opening up as I dive deeper into this tech world!
 
