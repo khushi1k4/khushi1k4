@@ -12,7 +12,7 @@
 
 - How to reach me **khushigoyal2525@gmail.com**
 
-- &#10024; Fun Fact: My eyes are opening up as I dive deeper into this tech world!
+- Fun Fact: My eyes are opening up as I dive deeper into this tech world!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
