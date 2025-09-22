@@ -1,7 +1,7 @@
 <h1 align="center">&#128075; Hello! I'm Khushi Goyal</h1>
 <h3 align="center">Tech Enthusiast & Creative Person | A passionate learner | Crafting Seamless Web Experiences</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&size=22&center=true&vCenter=true&width=600&lines=Building+Realiable+and+Scalable+Solutions!;Passionate+Web+Developer!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F2F75C&weight=900&size=22&center=true&vCenter=true&width=600&lines=Building+Realiable+and+Scalable+Solutions!;Passionate+Web+Developer!">
 </p>
 
 ---
