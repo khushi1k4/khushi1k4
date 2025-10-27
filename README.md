@@ -29,6 +29,7 @@ const about = {
     "I push my stack harder to get better results — every overflow shows growth.",
     "Aspiring Software Developer"
     "Give your Best everyday and Be consistent!"
+    "Believe in adding Brand Value and creating strong & bold impact."
   ],
 
   Interests: [
