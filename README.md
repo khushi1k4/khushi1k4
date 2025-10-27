@@ -6,13 +6,39 @@
 
 ---
 ## **ABOUT ME**
-- I’m currently grinding me on **Web Development and Data Structures & Algorithm** to crystal up.
+
+- I’m currently grinding me on **Web Development and Data Structures & Algorithm** to crystal up. 
 
 - I’m happy to collaborate on different unique projects.
 
 - How to reach me **khushigoyal2525@gmail.com**
 
 - Fun Fact: My eyes are opening up as I dive deeper into this tech world!
+
+```bash
+const about = {
+  me: [
+    "Grind me as much as I can!", "MERN Developer", "Fast and Passionate Learner"
+    "CS Student '27 @MITS, Gwalior", "Top 5 in my Batch",
+    "Top 21% Contributor @GSSoC'25",
+    "Publish Writings on Medium"
+  ],
+
+  visions: [
+    "Sky is not the limit — the limit is in our vision.",
+    "I push my stack harder to get better results — every overflow shows growth.",
+    "Aspiring Software Developer"
+  ],
+
+  interests: [
+    "Designing clean UI/UX",
+    "Building scalable web apps with efficient code",
+    "Exploring Data Structures",
+    "Discovering new tech ideas and solutions",
+    "Learning Cloud Computing"
+  ]
+};
+```
 
 ## Connect with me  
 
@@ -29,11 +55,20 @@
 
 
 ## **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1k4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=khushi1k4&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1k4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=khushi1k4&theme=highcontrast&hide_border=false)
+</div>
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi1k4&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
+
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi1k4&theme=highcontrast&hide_border=false" />
+
+</div>
+
 
 
 <!---
