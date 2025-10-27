@@ -28,7 +28,7 @@ const about = {
     "Sky is not the limit — the limit is in our vision.",
     "I push my stack harder to get better results — every overflow shows growth.",
     "Aspiring Software Developer"
-    "Give your Best everyday and Be consistent!"
+    "Give your Best everyday and Be consistent and mindful!"
     "Believe in adding Brand Value and creating strong & bold impact."
   ],
 
