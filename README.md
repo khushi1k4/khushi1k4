@@ -15,22 +15,23 @@
 
 - Fun Fact: My eyes are opening up as I dive deeper into this tech world!
 
-```bash
+```js
 const about = {
-  me: [
+  Me: [
     "Grind me as much as I can!", "MERN Developer", "Fast and Passionate Learner"
     "CS Student '27 @MITS, Gwalior", "Top 5 in my Batch",
     "Top 21% Contributor @GSSoC'25",
     "Publish Writings on Medium"
   ],
 
-  visions: [
+  Visions: [
     "Sky is not the limit — the limit is in our vision.",
     "I push my stack harder to get better results — every overflow shows growth.",
     "Aspiring Software Developer"
+    "Give your Best everyday and Be consistent!"
   ],
 
-  interests: [
+  Interests: [
     "Designing clean UI/UX",
     "Building scalable web apps with efficient code",
     "Exploring Data Structures",
