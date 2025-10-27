@@ -37,7 +37,7 @@ const about = {
     "Building scalable web apps with efficient code",
     "Exploring Data Structures",
     "Discovering new tech ideas and solutions",
-    "Learning Cloud Computing"
+    "Eager to learn Cloud Computing in future"
   ]
 };
 ```
