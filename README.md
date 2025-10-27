@@ -71,7 +71,10 @@ const about = {
 
 </div>
 
-
+---
+<div align="center">
+  <p>Every step in the journey of growth speaks silently, yet powerfully.🤍</p>
+</div>
 
 <!---
 khushi1k4/khushi1k4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
