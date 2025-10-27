@@ -19,8 +19,8 @@
 const about = {
   Me: [
     "Grind me as much as I can!", "MERN Developer", "Fast and Passionate Learner"
-    "CS Student '27 @MITS, Gwalior", "Top 5 in my Batch",
-    "Top 21% Contributor @GSSoC'25",
+    "CS Student'27 @MITS, Gwalior", "Top 5 in my Batch",
+    "Top 21% in Open Source Contributor @GSSoC'25",
     "Publish Writings on Medium"
   ],
 
