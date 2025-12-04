@@ -39,7 +39,7 @@ const khushi = {
     "Contributing to large-scale open-source projects"
   ],
   
-  currentlyExploring: ["Cloud Computing", "DevOps", "System Design", "Full stack developer"],
+  currentlyExploring: ["Cloud Computing", "DevOps", "System Design", "Full stack development"],
   
   philosophy: ["Sky is not the limit — the limit is in our vision.",
                "I push my stack harder to get better results — every overflow shows growth.",
