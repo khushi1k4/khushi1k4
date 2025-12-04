@@ -1,73 +1,149 @@
-<h1 align="center">&#128075; Hello! I'm Khushi Goyal</h1>
-<h3 align="center">Tech Enthusiast & Creative Person | A passionate learner | Crafting Seamless Web Experiences</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FA3811&weight=900&size=22&center=true&vCenter=true&width=600&lines=Building+Realiable+and+Scalable+Solutions!;Passionate+Web+Developer!">
-</p>
+<h1 align="center"> 𝐊𝐡𝐮𝐬𝐡𝐢 𝐆𝐨𝐲𝐚𝐥 </h1>
+<p align='center'><em>Aspiring Software Development Engineer | MERN Developer | ML Enthusiast</em></p>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushigoyal2525@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushigoyal09142005/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushi1k4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khushi-goyal.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Khushi_1k4)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khushigoyal2525)
+
+</div>
 
 ---
-## **ABOUT ME**
 
-- I’m currently grinding me on **Web Development and Data Structures & Algorithm** to crystal up. 
-
-- I’m happy to collaborate on different unique projects.
-
-- How to reach me **khushigoyal2525@gmail.com**
-
-- Fun Fact: My eyes are opening up as I dive deeper into this tech world!
-
-```js
-const about = {
-  Me: [
-    "Polishing me as much as I can!", "MERN Developer", "Fast and Passionate Learner"
-    "CS Student'27 @MITS, Gwalior",
-    "Top 21% in Open Source Contributor @GSSoC'25",
-    "Publish Writings on Medium"
+```javascript
+const khushi = {
+  identity: {
+    role: "Full-Stack Developer & Data Science Enthusiast",
+    education: "B.Tech CSE (Design) | MITS Gwalior(2023-2027) | 8.9 CGPA",
+    achievements: ["Top 21% GSSoC'25", "Top 5 @ IIT Delhi Hackathon", "McKinsey Forward Program"]
+  },
+  
+  techStack: {
+    languages: ["C++", "JavaScript", "Python", "SQL"],
+    frontend: ["React.js", "Tailwind CSS", "HTML/CSS", "Framer Motion"],
+    backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
+    security: ["JWT", "bcrypt", "Zod Validation"],
+    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
+    tools: ["Git", "Docker", "Postman", "Figma", "Jira"]
+  },
+  
+  expertise: [
+    "Building secure, scalable MERN applications",
+    "Designing clean APIs with authentication & validation",
+    "Developing ML models for real-world predictions",
+    "Grinding me in DSA problems",
+    "Contributing to large-scale open-source projects"
   ],
-
-  Visions: [
-    "Sky is not the limit — the limit is in our vision.",
-    "I push my stack harder to get better results — every overflow shows growth.",
-    "Aspiring Software Developer"
-    "Give your Best everyday and Be consistent and mindful!"
-    "Believe in adding Brand Value and creating strong & bold impact."
-  ],
-
-  Interests: [
-    "Designing clean UI/UX",
-    "Building scalable web apps with efficient code",
-    "Exploring Data Structures",
-    "Discovering new tech ideas and solutions",
-    "Eager to learn Cloud Computing in future"
-  ]
+  
+  currentlyExploring: ["Cloud Computing", "DevOps", "System Design", "Full stack developer"],
+  
+  philosophy: ["Sky is not the limit — the limit is in our vision.",
+               "I push my stack harder to get better results — every overflow shows growth.",
+               "Give your Best everyday and Be consistent and mindful!"]
 };
 ```
 
-## Connect with me  
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushigoyal09142005/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Khushi_1k4) 
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khushigoyal2525) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushi1k4)  
+## 🎯 What I Bring to the Table
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Full-Stack Development
+- Building **production-ready MERN applications** with secure authentication flows
+- Implementing **JWT, bcrypt, and Zod validation** for robust security
+- Designing **RESTful APIs** with Express.js and MongoDB
+- Creating **responsive UIs** with React.js and Tailwind CSS
+
+</td>
+<td width="50%">
+
+### 🤖 Machine Learning & Data Science
+- Developing **predictive models** using Scikit-learn (85%+ accuracy)
+- Performing **data preprocessing, EDA, and feature engineering**
+- Building classification & regression algorithms for healthcare analytics
+- Visualizing insights with **Matplotlib and Seaborn**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 Problem Solving
+- Basic foundation in **Data Structures & Algorithms (C++)**
+- **20+ merged PRs** in open-source projects
+- Code reviews, Git workflows, and CI/CD pipelines
+
+</td>
+<td width="50%">
+
+### 🎨 Design & Collaboration
+- UI/UX design with **Figma** for intuitive user experiences
+- **Agile methodologies** with Jira and Scrum sprints
+- Leading tech events for **200+ students** at ISTE
+- Technical writing on **Medium**
+
+</td>
+</tr>
+</table>
+
+---
+<div align="center">
+<h1>Technical Skills</h1>
+
+### Languages & Frameworks
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Project%20Management-blue?style=for-the-badge&logo=agile&logoColor=white) 
+![Sprint](https://img.shields.io/badge/Sprint-Cycle-green?style=for-the-badge&logo=agile&logoColor=white) 
+![Scrum](https://img.shields.io/badge/Scrum-Framework-orange?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
-## Languages and Tools
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![bcrypt](https://img.shields.io/badge/bcrypt-Hashing-%23000000?style=for-the-badge&logo=lock&logoColor=%23FFFF00) ![Zod](https://img.shields.io/badge/Zod-4A00E0?style=for-the-badge&logo=zod&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-Project%20Management-blue?style=for-the-badge&logo=agile&logoColor=white) ![Sprint](https://img.shields.io/badge/Sprint-Cycle-green?style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-Framework-orange?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
-
-## **GitHub Stats**
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1k4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<h1>GitHub Analytics</h1> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1k4&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
 </div>
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi1k4&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi1k4&theme=highcontrast&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi1k4&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi1k4&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
