@@ -51,49 +51,42 @@ const khushi = {
 
 ## 🎯 What I Bring to the Table
 
+<div align='center'>
 <table>
 <tr>
 <td width="50%">
 
 ### 💻 Full-Stack Development
-- Building **production-ready MERN applications** with secure authentication flows
-- Implementing **JWT, bcrypt, and Zod validation** for robust security
-- Designing **RESTful APIs** with Express.js and MongoDB
-- Creating **responsive UIs** with React.js and Tailwind CSS
-
-</td>
-<td width="50%">
-
-### 🤖 Machine Learning & Data Science
-- Developing **predictive models** using Scikit-learn (85%+ accuracy)
-- Performing **data preprocessing, EDA, and feature engineering**
-- Building classification & regression algorithms for healthcare analytics
-- Visualizing insights with **Matplotlib and Seaborn**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+- Production-ready **MERN stack** applications
+- Secure authentication (JWT, bcrypt, Zod)
+- RESTful APIs & responsive UIs
 
 ### 💡 Problem Solving
-- Basic foundation in **Data Structures & Algorithms (C++)**
-- **20+ merged PRs** in open-source projects
-- Code reviews, Git workflows, and CI/CD pipelines
+- DSA fundamentals in C++
+- **20+ open-source contributions**
+- Git workflows & CI/CD
 
 </td>
 <td width="50%">
 
-### 🎨 Design & Collaboration
-- UI/UX design with **Figma** for intuitive user experiences
-- **Agile methodologies** with Jira and Scrum sprints
-- Leading tech events for **200+ students** at ISTE
-- Technical writing on **Medium**
+### 🤖 ML & Data Science
+- Predictive models (85%+ accuracy)
+- Data preprocessing & feature engineering
+- Healthcare analytics & visualization
+
+### 🎨 Design & Leadership
+- UI/UX design with Figma
+- Agile/Scrum methodologies
+- Led tech events for 200+ students
+- Technical writing on Medium
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
+
 <div align="center">
 <h1>Technical Skills</h1>
 
