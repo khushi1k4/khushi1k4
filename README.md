@@ -30,15 +30,7 @@ const khushi = {
     dataScience: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
     tools: ["Git", "Docker", "Postman", "Figma", "Jira"]
   },
-  
-  expertise: [
-    "Building secure, scalable MERN applications",
-    "Designing clean APIs with authentication & validation",
-    "Developing ML models for real-world predictions",
-    "Grinding me in DSA problems",
-    "Contributing to large-scale open-source projects"
-  ],
-  
+
   currentlyExploring: ["Cloud Computing", "DevOps", "System Design", "Full stack development"],
   
   philosophy: ["Sky is not the limit — the limit is in our vision.",
