@@ -6,9 +6,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushigoyal2525@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushigoyal09142005/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushi1k4)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khushi-goyal.vercel.app/)-->
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Khushi_1k4)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khushigoyal2525)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khushi-goyal.vercel.app/)-->
 
 </div>
 
@@ -122,21 +122,6 @@ const khushi = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-<h1>GitHub Analytics</h1> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi1k4&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-
-</div>
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi1k4&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi1k4&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
