@@ -39,45 +39,50 @@ const khushi = {
 };
 ```
 
----
-
-## 🎯 How can I add Value
+<h1 align='center' style="margin: 0;">
+  <b>Driving Technical Values</b>
+</h1>
 
 <div align='center'>
 <table>
+
 <tr>
-<td width="50%">
+  <th width="50%" valign="top">Technical Skills</th>
+  <th width="50%" valign="top">Problem Solving & Leadership</th>
+</tr>
 
-### Full-Stack Development
-- Production-ready **MERN stack** applications
-- Secure authentication (JWT, bcrypt, Zod)
-- RESTful APIs & responsive UIs
+<tr>
 
-### Problem Solving
-- DSA fundamentals in C++
-- **20+ open-source contributions**
-- Git workflows & CI/CD
+<td valign="top">
 
-</td>
-<td width="50%">
-
-### ML & Data Science
-- Predictive models (85%+ accuracy)
-- Data preprocessing & feature engineering
-- Healthcare analytics & visualization
-
-### Design & Leadership
-- UI/UX design with Figma
-- Agile/Scrum methodologies
-- Led tech events for 200+ students
-- Technical writing on Medium
+<ul>
+  <li>Intuitive and interactive UI, enhanced usability</li>
+  <li>Production ready MERN applications</li>
+  <li>Scalable systems and robust RESTful APIs</li>
+  <li>CI/CD automation, containerized deployments</li>
+  <li>Large-scale data processing, insights, improved ML accuracy</li>
+  <li>JWT authentication, bcrypt hashing, Zod validation</li>
+</ul>
 
 </td>
+
+<td valign="top">
+
+<ul>
+  <li>DSA in C++/SQL, efficient Git workflows</li>
+  <li>20+ open-source contributions</li>
+  <li>UI/UX design using Figma</li>
+  <li>Agile/Scrum methodology</li>
+  <li>Led tech events for 200+ students</li>
+  <li>Technical writing on Medium</li>
+</ul>
+
+</td>
+
 </tr>
 </table>
 </div>
 
----
 
 <div align="center">
 <h1>Technical Skills</h1>
