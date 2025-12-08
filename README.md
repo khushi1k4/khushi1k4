@@ -41,19 +41,19 @@ const khushi = {
 
 ---
 
-## 🎯 What I Bring to the Table
+## 🎯 How can I add Value
 
 <div align='center'>
 <table>
 <tr>
 <td width="50%">
 
-### 💻 Full-Stack Development
+### Full-Stack Development
 - Production-ready **MERN stack** applications
 - Secure authentication (JWT, bcrypt, Zod)
 - RESTful APIs & responsive UIs
 
-### 💡 Problem Solving
+### Problem Solving
 - DSA fundamentals in C++
 - **20+ open-source contributions**
 - Git workflows & CI/CD
@@ -61,12 +61,12 @@ const khushi = {
 </td>
 <td width="50%">
 
-### 🤖 ML & Data Science
+### ML & Data Science
 - Predictive models (85%+ accuracy)
 - Data preprocessing & feature engineering
 - Healthcare analytics & visualization
 
-### 🎨 Design & Leadership
+### Design & Leadership
 - UI/UX design with Figma
 - Agile/Scrum methodologies
 - Led tech events for 200+ students
