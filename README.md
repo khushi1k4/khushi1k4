@@ -19,23 +19,23 @@ const khushi = {
   identity: {
     role: "Full-Stack Developer & Data Science Enthusiast",
     education: "B.Tech CSE (Design) | MITS Gwalior(2023-2027) | 8.9 CGPA",
-    achievements: ["1st Runner-up National Hackathon @MANIT Bhopal, Top 20% GSSoC'25", "Top 5 @ IIT Delhi Hackathon", "McKinsey Forward Program'25"]
+    achievements: ["1st Runner-up National Hackathon @MANIT Bhopal, "Top Performer Team Flagship Hackathon @IIITM Gwalior", Top 20% GSSoC'25", "Top 5 @ IIT Delhi Hackathon", "McKinsey Forward Program'25"]
   },
   
   techStack: {
     languages: ["C++", "JavaScript", "Python", "SQL"],
     frontend: ["React.js", "Tailwind CSS", "HTML/CSS", "Framer Motion"],
-    backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs"],
+    backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs", "API integration"],
     security: ["JWT", "bcrypt", "Zod Validation"],
-    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
-    tools: ["Git", "Docker", "Postman", "Figma", "Jira"]
+    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "AI"],
+    tools: ["Git", "Docker", "Postman", "Figma", "Jira", "Cloudinary"]
   },
 
-  currentlyExploring: ["Cloud Computing", "DevOps", "System Design", "Full stack development"],
+  currently exploring: ["Cloud Computing", "DevOps", "System Design", "Full stack development"],
   
   philosophy: ["Sky is not the limit — the limit is in our vision.",
                "I push my stack harder to get better results — every overflow shows growth.",
-               "Give your Best everyday and Be consistent and mindful!"]
+               "Give your Best everyday and be consistent and mindful!"]
 };
 ```
 
