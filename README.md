@@ -26,10 +26,10 @@ const khushi = {
   techStack: {
     languages: ["C++", "JavaScript", "Python", "SQL"],
     frontend: ["React.js", "Tailwind CSS", "HTML/CSS", "Framer Motion"],
-    backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs", "API integration"],
+    backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs", "API integration", "Payment Integration"],
     security: ["JWT", "bcrypt", "Zod Validation"],
-    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "AI"],
-    tools: ["Git", "Docker", "Postman", "Figma", "Jira", "Cloudinary"]
+    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "AI", "Hugging Face space", "Groq/Gemini AI", "Open AI"],
+    tools: ["Git", "Docker", "Postman", "Figma", "Jira", "Cloudinary", "Vercel", "Render", "Netlify"]
   },
 
   currently exploring: ["Cloud Computing", "DevOps", "System Design", "Full stack development"],
