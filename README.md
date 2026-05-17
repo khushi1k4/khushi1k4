@@ -19,7 +19,8 @@ const khushi = {
   identity: {
     role: "Full-Stack Developer & Data Science Enthusiast",
     education: "B.Tech CSE (Design) | MITS Gwalior(2023-2027) | 8.9 CGPA",
-    achievements: ["1st Runner-up National Hackathon @MANIT Bhopal, "Top Performer Team Flagship Hackathon @IIITM Gwalior", Top 20% GSSoC'25", "Top 5 @ IIT Delhi Hackathon", "McKinsey Forward Program'25"]
+    achievements: ["1st Runner-up National Hackathon @MANIT Bhopal, "Top Performer Team Flagship Hackathon @IIITM Gwalior",
+                    "Top 20% GSSoC'25", "Top 5 @IIT Delhi Hackathon", "McKinsey Forward Program'25"]
   },
   
   techStack: {
@@ -69,6 +70,7 @@ const khushi = {
 <td valign="top">
 
 <ul>
+  <li>Part of Hackathon's winner Team</li>
   <li>DSA in C++/SQL, efficient Git workflows</li>
   <li>20+ open-source contributions</li>
   <li>UI/UX design using Figma</li>
