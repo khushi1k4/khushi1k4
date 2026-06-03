@@ -1,5 +1,6 @@
 <h1 align="center"> 𝐊𝐡𝐮𝐬𝐡𝐢 𝐆𝐨𝐲𝐚𝐥 </h1>
-<p align='center'><em> Gen AI Developer | Full Stack Developer | MERN Developer </em></p>
+<p align='center'><em> Gen AI Developer | Software Development Engineer </em></p>
+
 
 <div align="center">
 
