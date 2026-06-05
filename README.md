@@ -29,7 +29,7 @@ const khushi = {
     frontend: ["React.js", "Next.js", "Tailwind CSS", "HTML/CSS", "Framer Motion"],
     backend: ["Node.js", "Express.js", "MongoDB", "RESTful APIs", "Cloudinary", "API & Payment Integration", "WebRTC"],
     security: ["JWT", "bcrypt", "Zod Validation"],
-    AI/ML: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "AI", "Hugging Face space", "Groq/Gemini AI", "Open AI"],
+    AI/ML: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "AI", "Hugging Face space", "Groq/Gemini AI", "Open AI", "LLM"],
     tools: ["Git", "Docker", "Postman", "Figma", "Jira", "Vercel", "Render", "Netlify"]
   },
 
